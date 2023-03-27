@@ -1,0 +1,13 @@
+1. Defining Clusters: 
+
+Intra-cluster seperation is minimized and Inter-cluster seperation is maximized.
+
+
+2. Examples of Clustering
+
+http://www.uhu.es/ijdar/10.4192/1577-8517-v11_4.pdf
+
+https://www.business2community.com/brandviews/affinio/nba-fandom-using-social-data-understand-allin216-dubnation-01572819#JXH4v0iLPshLTFSp.97
+
+https://www.efsa.europa.eu/en/supporting/pub/en-308
+
