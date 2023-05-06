@@ -1,0 +1,9 @@
+1. Retail: Variables can be considered
+
+Size of store (sq ft)
+Business hours open
+Management
+Street Traffic (How busy the road is)
+Number of employees and hrs they work
+Population in the nearby area
+Competition
